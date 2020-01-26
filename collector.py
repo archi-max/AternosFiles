@@ -19,7 +19,7 @@ driver.find_element_by_partial_link_text('Sign in with Google').click()
 driver.find_element_by_name('identifier').send_keys(mail) #it types your mail
 driver.find_element_by_id('identifierNext').click() 
 time.sleep(sleeptime)
-driver.find_element_by_name('password').send_keys(yourpassword)#it types your password
+driver.find_element_by_name('password').send_keys(password)#it types your password
 driver.find_element_by_id('passwordNext').click()
 time.sleep(sleeptime)
 driver.get('https://aternos.org/files/')

@@ -9,6 +9,8 @@ NOTE: It does not get plugin jar files. It only gets files like yml, json etc wh
   you can see this tutorial for installation: https://selenium-python.readthedocs.io/installation.html
 
 # Usage
-1. Set username and password for logging in with gmail
+1. In collector.py, Set username and password for logging in with gmail
+2. Change the time according to yout internet speed.
+3. Run the code
 
 NOTE: It only works with google logging in, If you want without google message me or put it in issues. If i get enough requests I will add the code

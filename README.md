@@ -1,5 +1,6 @@
 # AternosFiles
 
+This python codes allows you to get plugin's configuration files through web automation
 NOTE: It does not get plugin jar files. It only gets files like yml, json etc which aternos allows you to edit
 
 # Requirements
